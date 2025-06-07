@@ -51,6 +51,4 @@ T-Furniture is an elegant e-commerce website for a luxury furniture brand specia
 
 This is a static website that can be deployed directly. No complex installation required.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/t-furniture.git
+1
